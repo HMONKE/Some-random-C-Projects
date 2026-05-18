@@ -1,0 +1,38 @@
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\bin\Debug\quizgame.exe.config
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\bin\Debug\quizgame.exe
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\bin\Debug\quizgame.pdb
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.AssemblyReference.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.SuggestedBindingRedirects.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.Form1.resources
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.Properties.Resources.resources
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.GenerateResource.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.exe
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.pdb
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.Forms.gamescreen.resources
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\quizgame\quizgame\obj\Debug\quizgame.Forms.LongGame.resources
+E:\c#\wpf\quizgame\quizgame\bin\Debug\quizgame.exe.config
+E:\c#\wpf\quizgame\quizgame\bin\Debug\quizgame.exe
+E:\c#\wpf\quizgame\quizgame\bin\Debug\quizgame.pdb
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.AssemblyReference.cache
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.Form1.resources
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.Forms.gamescreen.resources
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.Forms.LongGame.resources
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.Properties.Resources.resources
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.GenerateResource.cache
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.exe
+E:\c#\wpf\quizgame\quizgame\obj\Debug\quizgame.pdb
+C:\Users\User\Desktop\quizgame\quizgame\bin\Debug\quizgame.exe.config
+C:\Users\User\Desktop\quizgame\quizgame\bin\Debug\quizgame.exe
+C:\Users\User\Desktop\quizgame\quizgame\bin\Debug\quizgame.pdb
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.Form1.resources
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.Forms.gamescreen.resources
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.Forms.LongGame.resources
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.Properties.Resources.resources
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.csproj.GenerateResource.cache
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.exe
+C:\Users\User\Desktop\quizgame\quizgame\obj\Debug\quizgame.pdb

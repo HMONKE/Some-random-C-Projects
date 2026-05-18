@@ -1,0 +1,50 @@
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\bin\Debug\beosztas.exe.config
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\bin\Debug\beosztas.exe
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\bin\Debug\beosztas.pdb
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.AssemblyReference.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.SuggestedBindingRedirects.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.Form1.resources
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.Properties.Resources.resources
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.GenerateResource.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.CoreCompileInputs.cache
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.exe
+F:\Documents\bhj\IT terület\Aszód gimnáziumi oktatás\C# oktatás\wpf\beosztas\beosztas\obj\Debug\beosztas.pdb
+G:\c#\wpf\beosztas\beosztas\bin\Debug\beosztas.exe.config
+G:\c#\wpf\beosztas\beosztas\bin\Debug\beosztas.exe
+G:\c#\wpf\beosztas\beosztas\bin\Debug\beosztas.pdb
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.AssemblyReference.cache
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.SuggestedBindingRedirects.cache
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.Form1.resources
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.Properties.Resources.resources
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.GenerateResource.cache
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.csproj.CoreCompileInputs.cache
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.exe
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.pdb
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.Forms.osztalyfonok.resources
+G:\c#\wpf\beosztas\beosztas\obj\Debug\beosztas.Forms.ClassDetailsForm.resources
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\bin\Debug\beosztas.exe.config
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\bin\Debug\beosztas.exe
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\bin\Debug\beosztas.pdb
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.csproj.AssemblyReference.cache
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.Forms.ClassDetailsForm.resources
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.Form1.resources
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.Forms.osztalyfonok.resources
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.Properties.Resources.resources
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.csproj.GenerateResource.cache
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.csproj.CoreCompileInputs.cache
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.exe
+C:\Users\Mátéka\Desktop\Web\c# 02 hó\beosztas\beosztas\obj\Debug\beosztas.pdb
+C:\Users\User\Desktop\beosztas\beosztas\bin\Debug\beosztas.exe.config
+C:\Users\User\Desktop\beosztas\beosztas\bin\Debug\beosztas.exe
+C:\Users\User\Desktop\beosztas\beosztas\bin\Debug\beosztas.pdb
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.Forms.ClassDetailsForm.resources
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.Form1.resources
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.Forms.osztalyfonok.resources
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.Properties.Resources.resources
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.exe
+C:\Users\User\Desktop\beosztas\beosztas\obj\Debug\beosztas.pdb
